@@ -4,7 +4,6 @@ vê uns anime ai:
 - Boku no Hero
 - Tate no Yusha
 - Kimetsu no Yaiba
-- Attack on Titans
 - Engine Kiss
 - Devil Man
 - Konosuba
